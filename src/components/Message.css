@@ -1,0 +1,6 @@
+.message-box {
+  display: grid;
+  place-items: center;
+  padding: 20px;
+  height: 220px;
+}
