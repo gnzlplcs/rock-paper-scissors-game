@@ -17,7 +17,7 @@ const User = ({ userScore, userSelection, trophyIcon, children }) => {
         </>
       ) : (
         <>
-          <img src={trophyIcon} alt={Trophy} />
+          <img src={trophyIcon} alt="Trophy" />
           <h3>Victory!</h3>
         </>
       )}
