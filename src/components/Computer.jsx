@@ -1,5 +1,6 @@
 import React from "react";
 import { settings } from "../configs/game";
+import './Computer.css'
 
 const Computer = ({
   pcScore,

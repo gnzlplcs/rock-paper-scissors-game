@@ -5,7 +5,7 @@
 }
 
 @media only screen and (max-width: 700px) {
-  .play-area {
+  .play-ground {
     grid-template-columns: 1fr;
   }
 }

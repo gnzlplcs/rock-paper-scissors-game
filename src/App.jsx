@@ -77,7 +77,7 @@ const App = () => {
   };
 
   return (
-    <div className="app">
+    <div className="App">
       <Title />
       <Round {...game} />
       <Playground>
